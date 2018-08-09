@@ -1,0 +1,1 @@
+prtint("Hello, world!")
