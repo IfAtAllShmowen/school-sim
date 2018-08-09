@@ -1,2 +1,2 @@
 # school-sim
-ive been around the world.
+This project is an attempt at a terminal based school simulator inspired by dwarf fortress.
