@@ -1,1 +1,0 @@
-prtint("Hello, world!")
